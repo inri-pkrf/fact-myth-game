@@ -73,5 +73,5 @@ export const QUESTIONS = [
   }
 ];
 
-export const HOME_URL = "https://totem-smart-flow.base44.app/";
+export const HOME_URL = "https://inri-pkrf.github.io/Totem-Pro-Final/";
 export const HOME_BTN_IMG = "https://media.base44.com/images/public/user_6885e537f90714e91be36212/5d2d4d14b_home-btn.png";
